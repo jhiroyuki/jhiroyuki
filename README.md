@@ -1,4 +1,6 @@
-# Bem vindos, sou o Hiro 👋
+<p align="center">
+  <h1>Bem vindos, sou o Hiro 👋</h1>
+</p>
 
 
 ### Sobre mim

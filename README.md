@@ -12,4 +12,4 @@ Sou aluno de mestrado no Instituto de Física de São Carlos - USP, apaixonado p
 
 Estou sempre em busca de novas oportunidades e parcerias. Não hesite em entrar em contato! 😄
 
-[![LinkedIn](link_para_perfil_LinkedIn)]([URL_do_seu_perfil_LinkedIn](https://www.linkedin.com/in/joao-hiroyuki/)) 
+[LinkedIn](https://www.linkedin.com/in/joao-hiroyuki/) 
